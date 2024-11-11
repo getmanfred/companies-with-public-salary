@@ -8,7 +8,7 @@ List of companies
 
 | Empresa     | URL         |
 | ----------- | ----------- |
-| EdPuzzle      | <https://jobs.lever.co/edpuzzle/f6a2d408-a156-4d6e-950f-43717b6acc68>     |
+| EdPuzzle      | <https://jobs.lever.co/>     |
 | Keepler   | <https://www.linkedin.com/company/keepler/jobs/>        |
 | Tinybird   | <https://www.tinybird.co/about#join-us> |
 | Whereby | <https://jobs.lever.co/whereby> |
@@ -22,8 +22,8 @@ List of companies
 | Stickermule | <https://www.stickermule.com/careers> |
 | Aplanet | <https://aplanet.org/careers/> |
 | Chorus | <https://chorus.one/careers#jointeam> |
-| Sector Labs | <https://www.sectorlabs.ro/senior-full-stack-engineer-remote> |
-| ConverKit | <https://job-boards.greenhouse.io/convertkit/jobs/4522329007> |
+| Sector Labs | <https://www.sectorlabs.ro/jobs> |
+| ConverKit | <https://job-boards.greenhouse.io/convertkit/jobs/> |
 | Brainly | <https://careers.brainly.com/open-positions/> |
 | HubStaff | <https://hubstaff.com/jobs> |
 | Learnerbly | <https://learnerbly.bamboohr.com/careers> |
@@ -39,6 +39,9 @@ List of companies
 | Newtral | <https://www.linkedin.com/company/newtral_media/jobs/> |
 | Guruwalk| <https://www.linkedin.com/company/guruwalk/jobs/> |
 | Docplanner Tech | <https://www.docplanner.com/career> |
+| Revel | <https://www.linkedin.com/company/driverevel/jobs/> |
+| Freepik | <https://jobs.freepik.com/> |
+| CrossPoint | <https://www.crosspoint365.com/trabaja-con-nosotros/> |
 
 Motivation
 ----------
