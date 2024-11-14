@@ -42,6 +42,7 @@ List of companies
 | Revel | <https://www.linkedin.com/company/driverevel/jobs/> |
 | Freepik | <https://jobs.freepik.com/> |
 | CrossPoint | <https://www.crosspoint365.com/trabaja-con-nosotros/> |
+| AIDA | <https://www.getmanfred.com/ofertas-empleo/5482/aida-net-developer-nov24> |
 
 Motivation
 ----------
