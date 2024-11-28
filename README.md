@@ -8,7 +8,7 @@ List of companies
 
 | Empresa     | URL         |
 | ----------- | ----------- |
-| EdPuzzle      | <https://jobs.lever.co/>     |
+| EdPuzzle      | <https://jobs.lever.co/edpuzzle>     |
 | Keepler   | <https://www.linkedin.com/company/keepler/jobs/>        |
 | Tinybird   | <https://www.tinybird.co/about#join-us> |
 | Whereby | <https://jobs.lever.co/whereby> |
@@ -43,6 +43,8 @@ List of companies
 | Freepik | <https://jobs.freepik.com/> |
 | CrossPoint | <https://www.crosspoint365.com/trabaja-con-nosotros/> |
 | AIDA | <https://www.getmanfred.com/ofertas-empleo/5482/aida-net-developer-nov24> |
+| Kraken | <https://jobs.ashbyhq.com/kraken.com> |
+| Toggl | <https://toggl.com/jobs/#jobs> |
 
 Motivation
 ----------
