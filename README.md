@@ -45,6 +45,7 @@ List of companies
 | AIDA | <https://www.getmanfred.com/ofertas-empleo/5482/aida-net-developer-nov24> |
 | Kraken | <https://jobs.ashbyhq.com/kraken.com> |
 | Toggl | <https://toggl.com/jobs/#jobs> |
+| BendingSpoons | <https://jobs.bendingspoons.com/> |
 
 Motivation
 ----------
