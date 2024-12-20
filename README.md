@@ -47,6 +47,7 @@ List of companies
 | Toggl | <https://toggl.com/jobs/#jobs> |
 | BendingSpoons | <https://jobs.bendingspoons.com/> |
 | Ravenloop | <https://www.linkedin.com/company/ravenloop/jobs/> |
+| Novatec Software | <https://novatec-software.career.softgarden.de/> |
 
 Motivation
 ----------
