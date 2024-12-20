@@ -46,6 +46,7 @@ List of companies
 | Kraken | <https://jobs.ashbyhq.com/kraken.com> |
 | Toggl | <https://toggl.com/jobs/#jobs> |
 | BendingSpoons | <https://jobs.bendingspoons.com/> |
+| Ravenloop | <https://www.linkedin.com/company/ravenloop/jobs/> |
 
 Motivation
 ----------
