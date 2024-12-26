@@ -48,7 +48,6 @@ List of companies
 | BendingSpoons | <https://jobs.bendingspoons.com/> |
 | Ravenloop | <https://www.linkedin.com/company/ravenloop/jobs/> |
 | Novatec Software | <https://novatec-software.career.softgarden.de/> |
-| Cabify | <https://cabify.careers/es/> |
 
 
 Motivation
