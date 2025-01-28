@@ -1,5 +1,5 @@
 # Spanish Tech Companies with Public Salary | Spain & Remote friendly
-List of Spanish Tech companies with public salary in their job offers.
+List of Spanish & Global Tech companies with public salary in their job offers.
 
 List of companies
 -----------------
@@ -48,6 +48,12 @@ List of companies
 | BendingSpoons | <https://jobs.bendingspoons.com/> |
 | Ravenloop | <https://www.linkedin.com/company/ravenloop/jobs/> |
 | Novatec Software | <https://novatec-software.career.softgarden.de/> |
+| Coursedog | <https://www.coursedog.com/careers-page#jobs> |
+| GitLab | <https://about.gitlab.com/jobs/all-jobs/> |
+| Arketa | <https://www.ycombinator.com/companies/arketa/jobs> |
+| Attio | <https://attio.com/careers#positions> |
+
+
 
 
 Motivation
