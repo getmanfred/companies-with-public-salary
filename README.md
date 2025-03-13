@@ -52,6 +52,9 @@ List of companies
 | GitLab | <https://about.gitlab.com/jobs/all-jobs/> |
 | Arketa | <https://www.ycombinator.com/companies/arketa/jobs> |
 | Attio | <https://attio.com/careers#positions> |
+| Phantom | <https://phantom.com/careers#open---positions> |
+| Owner | <https://www.owner.com/careers?utm_content=demo2#roles> |
+| PitchUp | <https://pitchup.applytojob.com/> |
 
 
 
