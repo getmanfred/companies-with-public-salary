@@ -55,6 +55,7 @@ List of companies
 | Phantom | <https://phantom.com/careers#open---positions> |
 | Owner | <https://www.owner.com/careers?utm_content=demo2#roles> |
 | PitchUp | <https://pitchup.applytojob.com/> |
+| PC Componentes | <https://jobs.pccomponentes.com/jobs> |
 
 
 
