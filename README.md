@@ -56,6 +56,7 @@ List of companies
 | Owner | <https://www.owner.com/careers?utm_content=demo2#roles> |
 | PitchUp | <https://pitchup.applytojob.com/> |
 | PC Componentes | <https://jobs.pccomponentes.com/jobs> |
+| DuckDuckGo | <https://duckduckgo.com/hiring> |
 
 
 
