@@ -46,6 +46,7 @@ List of companies
 | Kraken | <https://jobs.ashbyhq.com/kraken.com> |
 | Toggl | <https://toggl.com/jobs/#jobs> |
 | BendingSpoons | <https://jobs.bendingspoons.com/> |
+| Transparent Edge | <https://www.transparentedge.eu/dejanos-tu-cv/> |
 | Ravenloop | <https://www.linkedin.com/company/ravenloop/jobs/> |
 | Novatec Software | <https://novatec-software.career.softgarden.de/> |
 | Coursedog | <https://www.coursedog.com/careers-page#jobs> |
