@@ -40,7 +40,7 @@ List of companies
 | Guruwalk| <https://www.linkedin.com/company/guruwalk/jobs/> |
 | Docplanner Tech | <https://www.docplanner.com/career> |
 | Revel | <https://www.linkedin.com/company/driverevel/jobs/> |
-| Freepik | <https://jobs.freepik.com/> |
+| Freepik | <https://freepik-company.factorialhr.com/> |
 | CrossPoint | <https://www.crosspoint365.com/trabaja-con-nosotros/> |
 | AIDA | <https://www.getmanfred.com/ofertas-empleo/5482/aida-net-developer-nov24> |
 | Kraken | <https://jobs.ashbyhq.com/kraken.com> |
